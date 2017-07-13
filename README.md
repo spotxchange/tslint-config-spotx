@@ -2,16 +2,16 @@
 
 ## Usage
 
-Add this module as a depency in package.json.
+Add this module as a dependency in package.json.
 
 ```
 yarn add tslint-config-spotx --dev
 ```
 
-In your tslint.json file, extend the `spotxchange/tslint-config-spotx` config:
+In your tslint.json file, extend the `tslint-config-spotx` config:
 
 ```
-"extends": "spotxchange/tslint-config-spotx"
+"extends": "tslint-config-spotx"
 ```
 
 ## Contributing
