@@ -1,0 +1,19 @@
+{
+  "name": "tslint-config-spotx",
+  "version": "0.0.1",
+  "description": "An extendable tslint config for SpotX TS integration applications",
+  "main": "tslint-config-spotx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spotxchange/tslint-config-spotx.git"
+  },
+  "author": "SpotX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spotxchange/tslint-config-spotx/issues"
+  },
+  "homepage": "https://github.com/spotxchange/tslint-config-spotx#readme"
+}
