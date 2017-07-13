@@ -4,6 +4,12 @@ module.exports = {
         "tslint:recommended"
     ],
     "jsRules": {},
-    "rules": {},
+    "rules": {
+        "no-string-literal": false,
+        "object-literal-key-quotes": false,
+        "one-line": false,
+        "quotemark": false,
+        "trailing-comma": false
+    },
     "rulesDirectory": []
 };
