@@ -6,6 +6,7 @@ module.exports = {
     "jsRules": {},
     "rules": {
         "max-line-length": [true, 140],
+        "no-angle-bracket-type-assertion": false,
         "no-empty": false,
         "no-reference": false,
         "no-string-literal": false,

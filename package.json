@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-spotx",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An extendable tslint config for SpotX TS integration applications",
   "main": "tslint-config-spotx.js",
   "scripts": {
