@@ -5,6 +5,7 @@ module.exports = {
     ],
     "jsRules": {},
     "rules": {
+        "interface-over-type-literal": false,
         "max-line-length": [true, 140],
         "no-angle-bracket-type-assertion": false,
         "no-empty": false,
