@@ -20,6 +20,14 @@ module.exports = {
         "prefer-for-of": false,
         "quotemark": false,
         "trailing-comma": false,
+        "typedef": [
+            true,
+            "call-signature",
+            "property-declaration",
+            "arrow-call-signature",
+            "arrow-parameter",
+            "member-variable-declaration"
+        ],
         "variable-name": [true, "allow-leading-underscore"]
     },
     "rulesDirectory": []
