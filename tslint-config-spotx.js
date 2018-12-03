@@ -16,6 +16,7 @@ module.exports = {
         "only-arrow-functions": false,
         "one-line": false,
         "one-variable-per-declaration": false,
+        "ordered-imports": false,
         "prefer-const": false,
         "prefer-for-of": false,
         "quotemark": false,
