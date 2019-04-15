@@ -14,7 +14,6 @@ module.exports = {
         "object-literal-key-quotes": false,
         "object-literal-sort-keys": false,
         "only-arrow-functions": false,
-        "one-line": false,
         "one-variable-per-declaration": false,
         "ordered-imports": false,
         "prefer-const": false,
@@ -29,7 +28,7 @@ module.exports = {
             "arrow-parameter",
             "member-variable-declaration"
         ],
-        "variable-name": [true, "allow-leading-underscore"]
+        "variable-name": [true, "allow-leading-underscore", "allow-pascal-case"]
     },
     "rulesDirectory": []
 };
